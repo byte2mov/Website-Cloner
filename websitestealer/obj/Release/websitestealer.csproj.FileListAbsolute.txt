@@ -1,0 +1,11 @@
+C:\Users\Seemo\source\repos\websitestealer\websitestealer\bin\Release\websitestealer.exe.config
+C:\Users\Seemo\source\repos\websitestealer\websitestealer\bin\Release\websitestealer.exe
+C:\Users\Seemo\source\repos\websitestealer\websitestealer\bin\Release\websitestealer.pdb
+C:\Users\Seemo\source\repos\websitestealer\websitestealer\bin\Release\HtmlAgilityPack.dll
+C:\Users\Seemo\source\repos\websitestealer\websitestealer\bin\Release\HtmlAgilityPack.pdb
+C:\Users\Seemo\source\repos\websitestealer\websitestealer\bin\Release\HtmlAgilityPack.xml
+C:\Users\Seemo\source\repos\websitestealer\websitestealer\obj\Release\websitestealer.csproj.AssemblyReference.cache
+C:\Users\Seemo\source\repos\websitestealer\websitestealer\obj\Release\websitestealer.csproj.CoreCompileInputs.cache
+C:\Users\Seemo\source\repos\websitestealer\websitestealer\obj\Release\websitestealer.csproj.CopyComplete
+C:\Users\Seemo\source\repos\websitestealer\websitestealer\obj\Release\websitestealer.exe
+C:\Users\Seemo\source\repos\websitestealer\websitestealer\obj\Release\websitestealer.pdb
